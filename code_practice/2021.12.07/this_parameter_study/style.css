@@ -1,0 +1,10 @@
+div {
+    height: 10vh;
+    font-size: 3rem;
+}
+
+.div-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
