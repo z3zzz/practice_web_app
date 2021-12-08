@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    background-image: url('bg.png');
+    height: 50vh;
+    background-color: aqua;
+    padding: 1em;
+  
+    box-sizing: border-box;
+    height, width: 10%;
+}
+
+h1 {
+    font-family: 'Corinthia', cursive;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
+.li {
+    list-style-type: none;
+}
