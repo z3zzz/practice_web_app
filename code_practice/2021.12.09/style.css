@@ -1,0 +1,19 @@
+
+.sticky-mom {
+    height: 50vh;
+    background-color: chocolate;
+}
+
+.header {
+    height: 4em;
+    background-color: bisque;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+.main {
+    height: 300vh;
+    margin-top: 10em;
+    background-color: cadetblue;
+}
