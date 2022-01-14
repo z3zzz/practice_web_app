@@ -1,0 +1,7 @@
+.grandparents > child {
+    color: blue;
+}
+
+.grandparents > .parents {
+    color: red;
+}
